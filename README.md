@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeremiah-tg
+- 👋 Hi, I’m Jeremiah Joseph Okello @Jeremiah-tg
 - 👀 I’m interested in Web Technologies, Mysql, C#.
 - 🌱 I’m currently learning Web Application, Kafka
 - 💞️ I’m looking to collaborate on KaKebe
